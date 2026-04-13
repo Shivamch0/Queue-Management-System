@@ -29,6 +29,8 @@ npm install
 Run the development server
 Bash
 npm run dev
+
+
 💡 How It Works
 Users enter customer details (name, service type)
 Customer gets added to queue list
@@ -36,6 +38,8 @@ Queue updates dynamically using React state
 Admin/User can:
 Mark customer as "Served"
 Remove customer from queue
+
+
 🔮 Future Improvements
 🔐 Add authentication (Admin login)
 🌐 Backend integration (Node.js + MongoDB)
