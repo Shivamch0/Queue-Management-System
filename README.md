@@ -1,5 +1,7 @@
 Customer Queue Management System (React)
 A simple and efficient Customer Queue Management System built using React.js. This application allows users to manage customer queues, track service status, and handle real-time updates in a clean UI.
+
+
 🚀 Features
 ➕ Add customers to the queue
 📄 View current queue list
@@ -12,7 +14,9 @@ A simple and efficient Customer Queue Management System built using React.js. Th
 🎨 CSS / Tailwind CSS (Styling)
 📦 Vite (Build Tool)
 
+
 ⚙️ Installation & Setup
+
 Clone the repository
 Bash
 git clone https://github.com/your-username/customer-queue-system.git
