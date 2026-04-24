@@ -2,6 +2,8 @@ Customer Queue Management System (React)
 A simple and efficient Customer Queue Management System built using React.js. This application allows users to manage customer queues, track service status, and handle real-time updates in a clean UI.
 
 
+
+
 🚀 Features
 ➕ Add customers to the queue
 📄 View current queue list
