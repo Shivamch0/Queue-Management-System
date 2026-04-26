@@ -15,10 +15,7 @@ A simple and efficient Customer Queue Management System built using React.js. Th
 📦 Vite (Build Tool)
 
 
-⚙️ Installation & Setup
-
-
-
+⚙️ Installation & SeSetu
 Clone the repository
 Bash
 git clone https://github.com/your-username/customer-queue-system.git
