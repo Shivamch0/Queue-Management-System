@@ -39,8 +39,6 @@ Mark customer as "Served"
 Remove customer from queue
 
 
-
-
 🔮 Future Improvements
 🔐 Add authentication (Admin login)
 🌐 Backend integration (Node.js + MongoDB)
